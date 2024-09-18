@@ -1,0 +1,23 @@
+﻿@model HomeViewModel
+
+<h2 style="text-align: center;">Welcome to MixedShop Web Market</h2>
+<h5 style="text-align: center;">Check out Recommended items or view all items by pressing on Items</h5>
+
+    <div>
+        @await Html.PartialAsync("Carousel") 
+    </div>
+
+<br /><br />
+<h3>Recommended items this week</h3>
+<h1></h1>
+<br />
+
+<div class="row">
+
+    @foreach (var item in Model.RecommendedItem)
+    {
+        @Html.Partial("RecommendedItemsSummary", item);
+        //await Html.PartialAsync("RecommendedItemsSummary", item);
+    }
+
+</div>

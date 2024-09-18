@@ -1,0 +1,5 @@
+"MixedShop" je web stranica namjenjena za prodaju artikla, raznih kategorija.
+Izgradena je u ASP.Net Core (MVC), uz upotrebu Entity Frameworka i SQL Servera.
+Takoder sadrzi Login/Register funkcionalnosti bez kojih nije moguce izvrsit narudbu.
+Na pocetnoj stranici se nalaze preporuceni itemi, te se na gumb "Items" mogu izlistati svi itemu u bazi ili se izlistat po izabranoj kategoriji.
+Stranica pamti sve iteme u kosarici - mogu pregledavat drugi itemi nakon sto su odredeni artikli stavljeni u kosaricu(Session funkcionalnost)

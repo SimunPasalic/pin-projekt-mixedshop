@@ -1,0 +1,245 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Carousel\\Carousel10.jpg",
+      "PackagePath": "staticwebassets\\Images\\Carousel\\Carousel10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Carousel\\Carousel3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Carousel\\Carousel3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Carousel\\Carousel4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Carousel\\Carousel4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Carousel\\Carousel5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Carousel\\Carousel5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Carousel\\Carousel7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Carousel\\Carousel7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Carousel\\Carousel9.jpg",
+      "PackagePath": "staticwebassets\\Images\\Carousel\\Carousel9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Catalog\\Acer Full HD Monitor.jpg",
+      "PackagePath": "staticwebassets\\Images\\Catalog\\Acer Full HD Monitor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Catalog\\Asus Curved Gaming Monitor.jpg",
+      "PackagePath": "staticwebassets\\Images\\Catalog\\Asus Curved Gaming Monitor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Catalog\\Bose Headphones.jpg",
+      "PackagePath": "staticwebassets\\Images\\Catalog\\Bose Headphones.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Catalog\\HP LaserJet Printer.jpg",
+      "PackagePath": "staticwebassets\\Images\\Catalog\\HP LaserJet Printer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Catalog\\LG Curved Monitor.jpg",
+      "PackagePath": "staticwebassets\\Images\\Catalog\\LG Curved Monitor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Catalog\\Logitech Keyboard.jpg",
+      "PackagePath": "staticwebassets\\Images\\Catalog\\Logitech Keyboard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Catalog\\Logitech Performance Mouse.jpg",
+      "PackagePath": "staticwebassets\\Images\\Catalog\\Logitech Performance Mouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Catalog\\Razer Gaming Keyboard.jpg",
+      "PackagePath": "staticwebassets\\Images\\Catalog\\Razer Gaming Keyboard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Catalog\\Samsung Odyssey Montior.jpg",
+      "PackagePath": "staticwebassets\\Images\\Catalog\\Samsung Odyssey Montior.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Catalog\\Sony Headphones.jpg",
+      "PackagePath": "staticwebassets\\Images\\Catalog\\Sony Headphones.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Catalog\\canonprinter.jpg",
+      "PackagePath": "staticwebassets\\Images\\Catalog\\canonprinter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Catalog\\jblheadset.jpg",
+      "PackagePath": "staticwebassets\\Images\\Catalog\\jblheadset.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\Images\\Catalog\\logitech-wireless-mouse.jpg",
+      "PackagePath": "staticwebassets\\Images\\Catalog\\logitech-wireless-mouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\css\\MyStyle.css",
+      "PackagePath": "staticwebassets\\css\\MyStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Korisnik\\Desktop\\pin projekt\\MixedShop\\MixedShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MixedShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MixedShop.props",
+      "PackagePath": "build\\MixedShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MixedShop.props",
+      "PackagePath": "buildMultiTargeting\\MixedShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MixedShop.props",
+      "PackagePath": "buildTransitive\\MixedShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
